@@ -28,3 +28,7 @@ flutter build apk
 flutter install # Optionally install app onto connected android device
 ```
 ## Map Maker app
+Map Maker app does not have a functional UI yet. But the test files can be run which generate test maps located in src/test.
+```
+CreateDemoMap     # Creates a map designed to work with the viewer. 
+```

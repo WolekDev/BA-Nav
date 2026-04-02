@@ -32,3 +32,6 @@ Map Maker app does not have a functional UI yet. But the test files can be run w
 ```
 CreateDemoMap     # Creates a map designed to work with the viewer. 
 ```
+
+## License
+This project is licensed under the GPL 3.0 License — see the LICENSE file for details.
